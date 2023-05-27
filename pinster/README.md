@@ -1,6 +1,6 @@
-# Instagram clone in Django
+# Pinster in Django
 
-Basic Instagram clone website built in django web framework using Python. 
+Pinster website built in django web framework using Python. 
 
 ## Getting Started
 
