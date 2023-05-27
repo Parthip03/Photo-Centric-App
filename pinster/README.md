@@ -31,20 +31,6 @@ celery==5.0.0
 django-celery-beat==2.0.0
 ```
 
-## Screenshots
-
-![Screen](screenshots/screen1.png?raw=true)
-![Screen](screenshots/screen2.png?raw=true)
-![Screen](screenshots/screen3.png?raw=true)
-![Screen](screenshots/screen4.png?raw=true)
-![Screen](screenshots/screen5.png?raw=true)
-![Screen](screenshots/screen6.png?raw=true)
-![Screen](screenshots/screen7.png?raw=true)
-![Screen](screenshots/screen8.png?raw=true)
-
-
-
-
 ## Built With
 
 * [Bulma](https://bulma.io/) - Bulma is a free, open source CSS framework based on Flexbox
