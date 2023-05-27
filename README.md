@@ -1,2 +1,2 @@
-# Photo-Centric-App
-All the necessary Folders including the Project files, report and presentation is present in the pinster folder
+# Pinster
+All the necessary Folders including the Project files are present in the pinster folder.
