@@ -1,6 +1,6 @@
-# Pinster in Django
+# Instagram clone in Django
 
-Pinster website built in django web framework using Python. 
+Basic Instagram clone website built in django web framework using Python. 
 
 ## Getting Started
 
@@ -30,6 +30,20 @@ sqlparse==0.3.1
 celery==5.0.0
 django-celery-beat==2.0.0
 ```
+
+## Screenshots
+
+![Screen](screenshots/screen1.png?raw=true)
+![Screen](screenshots/screen2.png?raw=true)
+![Screen](screenshots/screen3.png?raw=true)
+![Screen](screenshots/screen4.png?raw=true)
+![Screen](screenshots/screen5.png?raw=true)
+![Screen](screenshots/screen6.png?raw=true)
+![Screen](screenshots/screen7.png?raw=true)
+![Screen](screenshots/screen8.png?raw=true)
+
+
+
 
 ## Built With
 
